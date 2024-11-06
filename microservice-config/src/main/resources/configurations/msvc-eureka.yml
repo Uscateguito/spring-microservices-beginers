@@ -9,6 +9,7 @@ eureka:
   instance:
     hostname: localhost
   client:
+#    Le indicamos a Eureka que no se registre dentro de sí misma
     register-with-eureka: false
     fetch-registry: false
     serverUrl:

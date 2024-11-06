@@ -20,8 +20,8 @@
         <module>microservice-gateway</module>
         <module>microservice-eureka</module>
         <module>microservice-config</module>
-        <module>microservice-student</module>
-        <module>microservice-course</module>
+        <module>microservice-client</module>
+        <module>microservice-provider</module>
     </modules>
 
     <properties>
